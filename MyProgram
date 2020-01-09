@@ -2,11 +2,11 @@ public class MyProgram
 {
     public static void main(String[] args)
     {
-        System.out.println("Occurences of you: " + countYou("you and your sisters look alike");
+        System.out.println("Occurences of you: " + countYou("you and your sisters look alike"));
         
-        System.out.println("Are bird and duck equal? " + birdDuck("I love birds. I had 2 parakeets and 3 ducks growing up.");
+        System.out.println("Are bird and duck equal? " + birdDuck("I love birds. I had 2 parakeets and 3 ducks growing up."));
         
-        System.out.println("Number of Sco**? + countScoob("Score scoob! We found some scooby scrubs.");
+        System.out.println("Number of Sco**? + countScoob("Score scoob! We found some scooby scrubs."));
         
         
     }
