@@ -1,0 +1,38 @@
+public class MyProgram
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Occurences of you: " + countYou("you and your sisters look alike");
+        
+        System.out.println("Are bird and duck equal? " + birdDuck("I love birds. I had 2 parakeets and 3 ducks growing up.");
+        
+        System.out.println("Number of Sco**? + countScoob("Score scoob! We found some scooby scrubs.");
+        
+        
+    }
+    
+    public static int countYou(String str)
+    {
+       //Return the number of times that the string "you" appears anywhere in the given string. 
+       //countYou("you and your sisters look alike") should return 2
+       //this is similar to countHi
+       
+       
+    }
+    
+    public static boolean birdDuck(String str)
+    {
+        //Return true if the string "bird" and "duck" appear the same number of times in the given string.
+        //birdDuck("I love birds. I had 2 parakeets and 3 ducks growing up.")
+        //this is similar to catDog
+    }
+    
+    public static int countScoob(String str)
+    {
+        //Return the number of times that the string "scoob" appears anywhere in the given string, 
+        //except we'll accept any letter for the '00', so "scrub", "scuub", and "scooby" count.
+        //countScoob("Score scoob! We found some scooby scrubs.") should return 3.
+        
+    }
+    
+}
