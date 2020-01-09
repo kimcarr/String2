@@ -6,7 +6,7 @@ public class MyProgram
         
         System.out.println("Are bird and duck equal? " + birdDuck("I love birds. I had 2 parakeets and 3 ducks growing up."));
         
-        System.out.println("Number of Sco**? " + countScoob("Score scoob! We found some scooby scrubs."));
+        System.out.println("Number of Sc**b? " + countScoob("Score scoob! We found some scooby scrubs."));
         
         
     }
